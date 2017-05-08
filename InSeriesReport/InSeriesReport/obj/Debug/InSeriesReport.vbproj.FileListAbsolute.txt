@@ -1,0 +1,10 @@
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\bin\Debug\InSeriesReport.exe.config
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\bin\Debug\InSeriesReport.exe
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\bin\Debug\InSeriesReport.pdb
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\bin\Debug\InSeriesReport.xml
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.InSeriesReport.resources
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.Resources.resources
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.vbproj.GenerateResource.Cache
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.exe
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.xml
+C:\Users\jtivitt\documents\visual studio 2017\Projects\InSeriesReport\InSeriesReport\obj\Debug\InSeriesReport.pdb
